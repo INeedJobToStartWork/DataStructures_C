@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 #include "../../libs/utils.h"
 
 int linearSentinelSearch(int *nums, const int numsSize, const int target)
