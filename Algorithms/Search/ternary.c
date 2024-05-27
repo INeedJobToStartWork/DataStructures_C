@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <math.h>
 #include <stdlib.h>
 #include "../../libs/utils.h"
 
@@ -43,9 +42,6 @@ int main(void)
 
     int arrSize = sizeof(arrs) / sizeof(arrs[0]);
     printf("%d", ternarySearch(arrs, arrSize, 59));
-
-    // int testArr[] = {4, 2, 3, 1, 6};
-    // printf("%d", 4 [testArr]);
 
     return 0;
 }
