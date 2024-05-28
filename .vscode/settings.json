@@ -3,6 +3,7 @@
         "stdio.h": "c",
         "stdlib.h": "c",
         "math.h": "c",
-        "printfarray.h": "c"
+        "printfarray.h": "c",
+        "linkedlist.h": "c"
     }
 }
