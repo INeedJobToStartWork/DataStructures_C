@@ -5,7 +5,7 @@
 
 void printfArray(int *nums, int numsSize)
 {
-    printf("{%d,", nums[numsSize - 1]);
+    printf("{%d,", nums[0]);
     for (int i = 1; i < numsSize - 1; i++)
     {
         printf(" %d,", nums[i]);
